@@ -50,7 +50,5 @@
         <li>Telegram <a href="https://t.me/No_mym">https://t.me/No_mym</a></li>
     </ul>
 </section>
-
-
 </body>
 </html>
