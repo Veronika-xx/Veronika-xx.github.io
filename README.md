@@ -1,3 +1,9 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Резюме</title>
+    <link rel="stylesheet" href="css.css">
+</head>
 <body>
     <nav>
         <a href="#about">Обо мне</a>
@@ -42,13 +48,9 @@
     <ul>
         <li>Email: vchernukhina@edu.hse.ru</li>
         <li>Telegram <a href="https://t.me/No_mym">https://t.me/No_mym</a></li>
-        
     </ul>
 </section>
 
-<footer>
-    <p>&copy; 2024 Вероника - Начинающий программист</p>
-</footer>
 
 </body>
 </html>
